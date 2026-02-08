@@ -1,20 +1,26 @@
 # 💸 App de Finanças Pessoais do Vicente Barros com Vibe Coding
 
+Este projecto foi desenvolvido como Desafio de Projecto da DIO de Vibe Coding usando o Lovable e o ChetGPT, a proposta é criar uma Aplicativo de organização de financeira pessoal baseado em interações em Linguagem Natural. 
+
+***
 # PRD refinado no ChatGPT
 
-# PRD App - de Organização de Finanças com conversa natural
-# Visão Geral
-Crie um app de Finanças Pessoais com base no seguinte PRD (Product Requirement Document): # Contexto Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas com o usuário.
+## PRD App - de Organização de Finanças com conversa natural
+## Visão Geral
+Criar um app de Finanças Pessoais com base no seguinte PRD (Product Requirement Document)
+
+## Contexto
+Criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas com o usuário.
 A ideia é facilitar o controle financeiro de forma simples e natural, sem formulários manuais ou planilhas complexas.
 
-# Problema
+## Problema
 Muitas pessoas desistem de controlar seus gastos porque os apps atuais exigem muita entrada manual e pouca personalização.
 Quero resolver isso com uma experiência de conversa e recomendações automáticas de economia.
 
-# Público-Alvo
+## Público-Alvo
 Pessoas que querem começar a organizar suas finanças de forma prática e sem complicação, principalmente iniciantes.
 
-# Funcionalidades-Chave
+## Funcionalidades-Chave
 ### 1.	Histórico de Transações
 Aba com lista completa, filtros por tipo/categoria, busca e exclusão
 ### 2.	Gerenciamento de Metas
@@ -34,7 +40,6 @@ Gráficos de evolução, comparativo, pizza de categorias e saldo
 
 Gerar um plano de MVP com as principais telas, recursos necessários e um esboço de validação inicial.
 Usar tom educativo e linguagem acessível, em português.
-
 ***
 
 Resultado final no Lovable: https://lovable.dev/projects/94c4c808-b9b1-4d5d-81b5-121f38da2be1
@@ -57,16 +62,10 @@ Ele oferece um **painel (dashboard)** com os principais indicadores do mês, inc
 
 Além disso, o app inclui áreas como **Bater papo**, **Histórico**, **Metas**, **Conquistas**, **Orçamentos** e **Relatórios**, permitindo uma gestão financeira completa e organizada.
 
-
 - Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?
-  -  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
-
-> [!TIP]
-> Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
-
-## 💬 Conclusão
-
-Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
+  - **O que funcionou bem?**
+  - O refinamento do PRD previamente feito no ChatGPT ajudou muito.
+  - **O que não funcionou como o esperado?**
+  - Esperava interagir mais com o Lovable, porém as interações feitas já foram de grande valia para aprender mais sobre o Vibe coding.
+  - **O que aprendeu sobre conversar com IAs?**
+  - Aprendi que é basicamente como conversar com uma pessoa, quanto mais clareza você dá aos prompts melhor será a interação e o resultado que se deseja.
